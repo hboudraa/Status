@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eb8fc0c-ce1a-45e9-855a-99e283d6ca48" name="Changes" comment="apps">
-      <change afterPath="$PROJECT_DIR$/Config/Accountsapp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/Accountsapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/Personnelapp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/Personnelapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/stockapp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/stockapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/templates/nav.html" afterDir="false" />
+    <list default="true" id="8eb8fc0c-ce1a-45e9-855a-99e283d6ca48" name="Changes" comment="files">
+      <change afterPath="$PROJECT_DIR$/Config/stockapp/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/Accountsapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Accountsapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/Accountsapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Accountsapp/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/Config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Config/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/Personnelapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Personnelapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/Personnelapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Personnelapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/stockapp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/stockapp/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/stockapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/stockapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/stockapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Config/stockapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,36 +32,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hboudraa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hboudraa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hboudraa/Status.git",
-    "accountId": "07ee9c9a-3fb2-4bae-acc1-32500d116974"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hboudraa/Status.git&quot;,
+    &quot;accountId&quot;: &quot;07ee9c9a-3fb2-4bae-acc1-32500d116974&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="30NOnpDdA16A427ITS3GwHkPJb3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,11 +93,20 @@
       <option name="project" value="LOCAL" />
       <updated>1753467422856</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="files">
+      <option name="closed" value="true" />
+      <created>1753469273032</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753469273032</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="apps" />
-    <option name="LAST_COMMIT_MESSAGE" value="apps" />
+    <MESSAGE value="files" />
+    <option name="LAST_COMMIT_MESSAGE" value="files" />
   </component>
 </project>
