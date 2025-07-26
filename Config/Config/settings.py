@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-
+TAILWIND_APP_NAME = 'theme'
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'Personnelapp',
     'Accountsapp',
     'tinymce',
+    'tailwind',
+    'theme',
 ]
 
 MIDDLEWARE = [
